@@ -1,0 +1,15 @@
+# PCU Repository Requirements
+# 
+# This project uses only Python standard library modules:
+# - typing, dataclasses, enum, abc, pathlib, sys, time, uuid
+#
+# Minimum Python version: 3.8+
+# (Required for typing.Protocol support)
+#
+# No external dependencies are required.
+# 
+# For future production deployments, you may want to add:
+# - kafka-python or confluent-kafka (for Kafka bus implementation)
+# - nats-py (for NATS bus implementation)
+# - Any ML/AI libraries for node implementations
+
