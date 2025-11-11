@@ -1,6 +1,4 @@
-# PCU (Personal Care Utility)
-
-A layered, message-driven architecture for a Personal Care Utility system. This skeleton provides a modular framework for processing sensor data through multiple layers: Ingestion → Personicle → State → Context → Guidance → Safety → Orchestrator → Interface.
+# PCU
 
 ## Architecture
 
